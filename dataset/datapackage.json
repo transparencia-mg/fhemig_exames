@@ -11,8 +11,8 @@
       "encoding": "utf-8-sig",
       "format": "csv",
       "hashing": "md5",
-      "name": "exames-2025",
-      "path": "data/exames-2025.csv",
+      "name": "exames",
+      "path": "data/exames.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
