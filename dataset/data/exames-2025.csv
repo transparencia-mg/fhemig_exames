@@ -174,8 +174,14 @@ CHPB;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em labora
 CHPB;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;9,0
 CHPB;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;1971,0
 CHPB;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;20,0
-CHPB;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;8,0
+CHPB;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;9,0
 CHPB;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;64,0
+CHPB;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;80,0
+CHPB;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;13,0
+CHPB;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;1682,0
+CHPB;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;7,0
+CHPB;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;5,0
+CHPB;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;32,0
 CSPD;2023,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;2,0
 CSPD;2023,0;11,0;Procedimentos com finalidade diagnóstica;Coleta de material;14,0
 CSPD;2023,0;11,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;473,0
@@ -452,10 +458,14 @@ CSSI;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radio
 CSSI;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;1513,0
 CSSI;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;1,0
 CSSI;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;138,0
-CSSI;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;4417,0
+CSSI;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;4418,0
 CSSI;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;434,0
-CSSI;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;1216,0
+CSSI;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;1227,0
 CSSI;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;161,0
+CSSI;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;4127,0
+CSSI;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;428,0
+CSSI;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;1337,0
+CSSI;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;149,0
 HAC;2025,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;1,0
 HAC;2025,0;10,0;Procedimentos com finalidade diagnóstica;Coleta de material;8,0
 HAC;2025,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;48,0
@@ -554,7 +564,7 @@ HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Coleta de material;23,0
 HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;94,0
 HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;32107,0
 HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;9,0
-HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;429,0
+HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;430,0
 HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;223,0
 HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;790,0
 HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;2627,0
@@ -563,9 +573,9 @@ HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultras
 HAC;2026,0;7,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;124,0
 HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Coleta de material;27,0
 HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;90,0
-HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;30156,0
+HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;30159,0
 HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;2,0
-HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;374,0
+HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;375,0
 HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;224,0
 HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;784,0
 HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;2265,0
@@ -574,15 +584,25 @@ HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultras
 HAC;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;124,0
 HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Coleta de material;33,0
 HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;92,0
-HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;30303,0
+HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;30321,0
 HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;4,0
-HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;347,0
-HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;204,0
+HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;421,0
+HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;206,0
 HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;785,0
 HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;2350,0
 HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;559,0
 HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;402,0
 HAC;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;137,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Coleta de material;19,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;112,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;29327,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;228,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;148,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;813,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;2173,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;469,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;362,0
+HAC;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;93,0
 HCM;2025,0;11,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;94,0
 HCM;2025,0;11,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;1,0
 HCM;2025,0;11,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;2,0
@@ -654,13 +674,20 @@ HCM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiol
 HCM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;302,0
 HCM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;2,0
 HCM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;9,0
-HCM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;552,0
+HCM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;553,0
 HCM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;5,0
 HCM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;1,0
 HCM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;38,0
 HCM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;81,0
 HCM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;358,0
 HCM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;4,0
+HCM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Coleta de material;4,0
+HCM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;717,0
+HCM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;4,0
+HCM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;42,0
+HCM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;76,0
+HCM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;439,0
+HCM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;4,0
 HEM;2025,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;7,0
 HEM;2025,0;6,0;;;3,0
 HEM;2025,0;6,0;Procedimentos com finalidade diagnóstica;Coleta de material;53,0
@@ -797,7 +824,7 @@ HEM;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomogr
 HEM;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;116,0
 HEM;2026,0;7,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;135,0
 HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Coleta de material;87,0
-HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;27744,0
+HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;27745,0
 HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;91,0
 HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;112,0
 HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;327,0
@@ -806,7 +833,7 @@ HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomogr
 HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;113,0
 HEM;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;138,0
 HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Coleta de material;64,0
-HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;30040,0
+HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;30061,0
 HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;140,0
 HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;98,0
 HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;283,0
@@ -814,6 +841,17 @@ HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste 
 HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;373,0
 HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;126,0
 HEM;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;145,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Coleta de material;78,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;27142,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;126,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;81,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;3,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;277,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;1,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3549,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;351,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;103,0
+HEM;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;119,0
 HJK;2025,0;4,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;1,0
 HJK;2025,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;1,0
 HJK;2026,0;1,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;25,0
@@ -859,7 +897,7 @@ HJK;2026,0;4,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultras
 HJK;2026,0;4,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1601,0
 HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Coleta de material;85,0
 HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;294,0
-HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;56414,0
+HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;56417,0
 HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;62,0
 HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;296,0
 HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;329,0
@@ -871,55 +909,70 @@ HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomogr
 HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;900,0
 HJK;2026,0;5,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1446,0
 HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Coleta de material;77,0
-HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;390,0
-HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;56052,0
+HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;393,0
+HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;56106,0
 HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;57,0
-HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;341,0
+HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;345,0
 HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;364,0
-HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;1904,0
+HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;1909,0
 HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;3,0
 HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;7,0
 HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;17683,0
-HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1312,0
-HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;1077,0
+HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1320,0
+HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;1079,0
 HJK;2026,0;6,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1586,0
 HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Coleta de material;79,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;277,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;63505,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;301,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;63570,0
 HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;89,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;337,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;447,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;2182,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;5,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;10,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;17910,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1290,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;1077,0
-HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1246,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;408,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;454,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;2184,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;6,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;11,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;17912,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1309,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;1087,0
+HJK;2026,0;7,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1248,0
 HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Coleta de material;89,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;231,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;60264,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;254,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;60350,0
 HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;19,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;234,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;437,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;2170,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;2,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;18842,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;995,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;286,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;440,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;2168,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;1,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;4,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;18847,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1011,0
 HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;1084,0
-HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1234,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Coleta de material;91,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;219,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;61968,0
+HJK;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1241,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Coleta de material;99,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;258,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;62296,0
 HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;58,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;220,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;379,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;2007,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;315,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;392,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;2020,0
 HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;1,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;5,0
 HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;16819,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1033,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;984,0
-HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1110,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1062,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;995,0
+HJK;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1113,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Coleta de material;71,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;229,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;59436,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;52,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;220,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;361,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;1960,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;3,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;1,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;18309,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1264,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;939,0
+HJK;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;3127,0
 HRBJA;2024,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;2,0
 HRBJA;2024,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;1,0
 HRBJA;2024,0;5,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;3,0
@@ -1217,7 +1270,7 @@ HRBJA;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultr
 HRBJA;2026,0;7,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;493,0
 HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Coleta de material;1,0
 HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;74,0
-HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;31810,0
+HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;31815,0
 HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;1,0
 HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;7,0
 HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;37,0
@@ -1229,17 +1282,29 @@ HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomo
 HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;306,0
 HRBJA;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;316,0
 HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Coleta de material;4,0
-HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;69,0
-HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;23691,0
+HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;70,0
+HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;23711,0
 HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;6,0
-HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;49,0
+HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;51,0
 HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;1698,0
 HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;2,0
-HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;42,0
+HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;49,0
 HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;8381,0
-HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1210,0
+HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1242,0
 HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;205,0
 HRBJA;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;233,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Coleta de material;1,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;76,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;25624,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;37,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;35,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;1658,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia intervencionista;1,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;49,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;8804,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;1141,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;236,0
+HRBJA;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;368,0
 HRJP;2024,0;11,0;Procedimentos com finalidade diagnóstica;Coleta de material;6,0
 HRJP;2024,0;11,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;45,0
 HRJP;2024,0;11,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;8543,0
@@ -1464,7 +1529,7 @@ HRJP;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultra
 HRJP;2026,0;5,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1117,0
 HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Coleta de material;132,0
 HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;148,0
-HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;14731,0
+HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;14733,0
 HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;48,0
 HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;162,0
 HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;97,0
@@ -1476,7 +1541,7 @@ HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultra
 HRJP;2026,0;6,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;1179,0
 HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Coleta de material;142,0
 HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;146,0
-HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;15181,0
+HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;15183,0
 HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;49,0
 HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;133,0
 HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;107,0
@@ -1488,7 +1553,7 @@ HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultra
 HRJP;2026,0;7,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;630,0
 HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Coleta de material;134,0
 HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;102,0
-HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;12151,0
+HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;12168,0
 HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;140,0
 HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;104,0
 HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;988,0
@@ -1497,18 +1562,29 @@ HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste
 HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;523,0
 HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;676,0
 HRJP;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;558,0
-HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Coleta de material;106,0
+HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Coleta de material;112,0
 HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;78,0
-HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;12643,0
+HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;12740,0
 HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;166,0
 HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;130,0
 HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por medicina nuclear in vivo;1,0
 HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;913,0
 HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;15,0
-HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3690,0
+HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3702,0
 HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;502,0
 HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;758,0
-HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;444,0
+HRJP;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;450,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Coleta de material;128,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;72,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;12615,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;130,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;58,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;802,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;9,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3426,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;377,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;772,0
+HRJP;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;466,0
 IRS;2023,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;1,0
 IRS;2023,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;1574,0
 IRS;2023,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;8,0
@@ -1649,10 +1725,15 @@ IRS;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laborat
 IRS;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;1,0
 IRS;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;764,0
 IRS;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;4,0
-IRS;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;2304,0
+IRS;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;2305,0
 IRS;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;5,0
 IRS;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;314,0
 IRS;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;5,0
+IRS;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;2042,0
+IRS;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;1,0
+IRS;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;1,0
+IRS;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;473,0
+IRS;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;5,0
 MOV;2023,0;4,0;Procedimentos com finalidade diagnóstica;Coleta de material;31,0
 MOV;2023,0;4,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;37,0
 MOV;2023,0;4,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;7508,0
@@ -2084,7 +2165,7 @@ MOV;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomogr
 MOV;2026,0;5,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;824,0
 MOV;2026,0;5,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;857,0
 MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Coleta de material;22,0
-MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;93,0
+MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;95,0
 MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;9168,0
 MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;107,0
 MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;221,0
@@ -2093,43 +2174,55 @@ MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiol
 MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;9,0
 MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3328,0
 MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;39,0
-MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;867,0
-MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;764,0
+MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;868,0
+MOV;2026,0;6,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;767,0
 MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Coleta de material;19,0
-MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;48,0
-MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;8733,0
+MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;61,0
+MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;8727,0
 MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;66,0
-MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;166,0
-MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;7,0
+MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;247,0
+MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;5,0
 MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;430,0
 MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;3,0
-MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3079,0
-MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;20,0
-MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;875,0
-MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;675,0
+MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3077,0
+MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;24,0
+MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;877,0
+MOV;2026,0;7,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;709,0
 MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Coleta de material;26,0
-MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;39,0
-MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;10088,0
-MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;47,0
-MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;111,0
-MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;15,0
+MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;47,0
+MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;10076,0
+MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;52,0
+MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;158,0
+MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;13,0
 MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;370,0
 MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;3,0
-MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3382,0
+MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;3381,0
 MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;11,0
-MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;883,0
-MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;679,0
+MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;889,0
+MOV;2026,0;8,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;774,0
 MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Coleta de material;36,0
-MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;51,0
-MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;9617,0
+MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;56,0
+MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;9642,0
 MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;79,0
-MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;53,0
-MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;16,0
+MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;107,0
+MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;15,0
 MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;344,0
 MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;1,0
-MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;2274,0
+MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;2273,0
 MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;16,0
-MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;828,0
-MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;659,0
+MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;831,0
+MOV;2026,0;9,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;686,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Coleta de material;29,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico e procedimentos especiais em hemoterapia;36,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em laboratório clínico;9146,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico em vigilância epidemiológica e ambiental;98,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por anatomia patológica e citopatologia;43,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por endoscopia;4,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por radiologia;370,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ressonância magnética;6,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por teste rápido;2887,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por tomografia;21,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Diagnóstico por ultrasonografia;926,0
+MOV;2026,0;10,0;Procedimentos com finalidade diagnóstica;Métodos diagnósticos em especialidades;705,0
 ;;;;;
 Filtros aplicados: total exames não é 0 estabelecimento não é (Em branco), CEPAI ou MGT Status operacional é Filtro de Ex-Unidades AnoMes não é (Em branco);;;;;
